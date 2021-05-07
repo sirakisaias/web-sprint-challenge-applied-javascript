@@ -75,7 +75,12 @@ There are two possible ways to submit this project to Canvas. Lambda Staff will 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+DOM is an interface for html that show up for what is behind it.
 2. What is an event?
+    Things that browser does on webpage
 3. What is an event listener?
+an event listner listens a response from the webpage
 4. Why would we convert a NodeList into an Array?
+    to go over it easily
 5. What is a component?
+It is a reusable code that can be used multiple times
